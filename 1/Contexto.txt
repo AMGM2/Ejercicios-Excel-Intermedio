@@ -1,0 +1,30 @@
+Uso de un gimnasio
+
+Los datos existentes incluyen;
+
+Fecha: Es la fecha en que alguien hace uso de algunos de los equipos del gimnasio
+
+Maquina: Es la identificación del equipo disponible en el gimnasio.
+
+Participante: Representa a cada usuario del gimnasio
+
+Tiempo de uso: es el tiempo que un usuario (participante) ha empleado una de las máquinas en la fecha indicada.
+
+ 
+
+Es decir, cada  fila contiene el tiempo en que cada participante utiliza las máquinas en cada fecha. 
+
+ 
+
+En base a la información disponible determine: 
+
+El número de ocasiones en que se ha empleado la máquina 2
+El número de veces que se ha empleado la máquina 3 y la 4  en total (la suma de ambos)
+La cantidad de tiempo total que se ha empleado la máquina 6
+El número de ocasiones que el participante 5 ha empleado las máquinas
+El tiempo total que el participante 6 ha empleado las máquinas
+El tiempo total que los participantes 2 y 3 han empleado las máquinas (la suma de ambos)
+El tiempo promedio que cualquier participante emplea en la máquina 7
+El número de veces que el participante 1  ha usado las máquinas en agosto
+La cantidad de ocasiones en que se usó la máquina 1 en noviembre
+El tiempo total que el participante 62 utilizó las máquinas en octubre

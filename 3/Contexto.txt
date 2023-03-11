@@ -1,0 +1,67 @@
+
+Covid en el peru (en Excel)
+
+En el 2020 llegó al Perú el COVID-19, una enfermedad que tuvo un gran impacto tanto en las familias peruanas, el caso descrito a continuación se basa en la información existente al 28/05/2021.
+
+En el Perú, las cifras que se reportaron de forma pública provienen del MINSA (Ministerio de Salud), en dos versiones, una en la que se informa los Fallecidos por COVID, es decir a todos lo que se les ha detectado o sospechado de tener Coronavirus, y otra versión del SINADEF (Sistema Informático Nacional de Defunciones) en la que se incluyen a los fallecidos por toda causa.
+
+ 
+
+Cantidad de Fallecidos por COVID en el Perú
+Existen al menos 3 versiones sobre la cantidad de fallecidos:
+
+1) Al 28/05/2021 el MINSA (covid19.minsa.gob.pe)reporta que el COVID-19 ha provocado 68634 Fallecidos
+
+2) Diversos analistas señalan que se trataría de al menos 130 mil fallecidos, debido entre otros, a errores en el registro de los datos
+
+3) Algunos se basan en la cantidad de fallecidos en promedio en años previos, y señalan que la cifra podría ser considerablemente mayor (opencovid-peru.com al 28/05/2021 señala que hay 195269 fallecidos en exceso).
+
+ 
+
+La fuente completa (fallecidos por toda causa) es la del SINADEF, y sirve para llegar a cifras similares a las 3 versiones indicasa, estas cifras se encuentran disponibles en la plataforma "datos abiertos" (datosabiertos.gob.pe), pra efectos de este ejemplo se usará el archivo publicado por el SINADEF el 28/05/2021.
+
+ 
+
+¿Cómo saber cuántas personas fallecieron por COVID? 
+ 
+
+Los que crean estos registros emplean el código U071 cuando el fallecido tuvo una prueba de COVID-19 con resultado positivo, y U072 cuando se trata de un caso probable de COVID-19, este criterio es el que nos lleva a la primera versión
+
+ 
+
+Los que se encuentran en la segunda versión señalan que además de emplear los códigos U071 y U072, se pueden identificar textos como "COV 2", "COV2", "COV-2", "Covid", "Coronavirus", y otros, los que permitenidentificar los casos que no hayan sido incluidos dentro de la codificación U072.
+
+ 
+
+Finalmente, los que encuentran en la tercera versión señalan que se debe calcular el promedio diario de fallecidos de años anteriores, ellos emplean métodos refinados para identificar el promedio de fallecidos que debería ocurrir por cada día, luego comparan estas cifras con las que realmente ocurrieron a fin de detectar la diferencia.
+
+ 
+
+ 
+
+Tablas y Gráficos estadísticos del Coronavirus en el Perú
+En base a las características del caso realice lo siguiente: 
+
+ 
+
+- Elabore una Tabla dinámica que permita identificar el total de fallecidos por cada mes de acuerdo a la versión 1 (use los textos "U071", "U072")  
+
+- En base a la Tabla anterior elabore un gráfico que permita mostrar estas cantidades, el gráfico debe poder entenderse sin necesidad de leer la Tabla dinámica.
+
+ 
+
+- Utilice las funciones necesarias para que los textos "U071", "U072", "COV 2", "COV2", "COV-2", "Covid", "Coronavirus", puedan considerarse como fallecidos por COVID-19
+
+- Elabore una Tabla dinámica que permita identificar el total de fallecidos por cada mes de acuerdo a la versión 2 (usando lo obtenido en el punto anterior)
+
+- En base a la Tabla anterior elabore un gráfico que permita mostrar estas cantidades, el gráfico debe poder entenderse sin necesidad de leer la Tabla dinámica.
+
+ 
+
+- Identifique un único promedio proyectado de fallecidos promedio por día (un solo valor, no es necesario un valor por cada día)
+
+- Elabore una Tabla dinámica que permita identificar el total de fallecidos por cada mes
+
+- En base a la Tabla anterior, y al "promedio proyectado de fallecidos promedio" elabore un gráfico que permita mostrar estas cantidades, el gráfico debe poder entenderse sin necesidad de leer la Tabla dinámica.
+
+ 

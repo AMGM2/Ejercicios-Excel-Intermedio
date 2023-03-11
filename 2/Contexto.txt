@@ -1,0 +1,25 @@
+
+Ejercicio - Torneo en Excel
+Se encuentra el ranking de los 500 mejores jugadores de la ATP, al 29/11/2021, reflejando los cambios de la última semana. 
+
+ 
+
+En base a esta información realice lo siguiente:
+
+ 
+
+- Cambie el tipo de letra de todo el cuadro, use tamaño de letra 14, y ajuste el ancho de todas las columnas.
+
+- En una columna obtenga los puntos/ torneos, con lo cual obtendrá el "promedio de puntos por torneo" jugado.
+
+- Use un "formato condicional" para identificar los 15 jugadores con mejor "promedio de puntos por torneo". 
+
+- Use el "formato condicional", "Barras de datos" para los puntos de cada jugador
+
+- Use un "formato condicional" para marcar los casos en los que el jugador tenga entre 18 y 21 años 
+
+- Utilice un semáforo que permita identificar a los jugadores con menos de 10 torneos jugados, y a los que tienen más de 35 torneos jugados.
+
+- Si el precio promedio de acceso a un torneo es de 300 dólares, determine cuanto ha empleado cada jugador en todas sus inscripciones a los torneos jugados.
+
+- Mejore los nombres de los jugadores para que todos aparezcan con el primer carácter de cada nombre o apellido en mayúsculas, y el resto de caracteres en minúsculas. 
